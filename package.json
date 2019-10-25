@@ -1,0 +1,20 @@
+{
+  "name": "thewaytogo",
+  "version": "1.0.0",
+  "description": "The way to go.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "go",
+    "golang"
+  ],
+  "author": "David <david19931217@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
